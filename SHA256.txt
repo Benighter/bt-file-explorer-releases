@@ -1,1 +1,1 @@
-b7880e5716ff27ee4ec96d26df16d443c81ddab01970edc39b39593c09088d55  BT-File-Explorer-1.0.3.apk
+d81f969c97a04b34eedba03e9fd808417bade442965c56d94d9cef8fa18999ca  BT-File-Explorer-1.0.4.apk

@@ -1,11 +1,11 @@
 {
   "packageId": "com.benighter.btfileexplorer",
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/Benighter/bt-file-explorer-releases/releases/download/v1.0.3/BT-File-Explorer-1.0.3.apk",
-  "sha256": "b7880e5716ff27ee4ec96d26df16d443c81ddab01970edc39b39593c09088d55",
-  "size": 17088625,
-  "releaseNotes": "# BT File Explorer 1.0.3\n\n- Mark and unmark files without jumping to the top of the folder.\n- Keep your place when using Select All, Invert Selection, Back, Copy or Cut.\n- Selection updates the existing rows, keeping file previews and the current view in place.\n\nIncludes the features from 1.0.2. This is a directly distributed Android preview; Google Play submission remains pending Bennet's review.\n",
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/Benighter/bt-file-explorer-releases/releases/download/v1.0.4/BT-File-Explorer-1.0.4.apk",
+  "sha256": "d81f969c97a04b34eedba03e9fd808417bade442965c56d94d9cef8fa18999ca",
+  "size": 17166054,
+  "releaseNotes": "# BT File Explorer 1.0.4\n\n- Keep your place when opening files or returning from folders, including Back and breadcrumbs.\n- Remember positions across tabs and screen recreation in all nine views.\n- Access external Android/data and Android/obb with an explicitly authorized Shizuku connection.\n- Use previews, copy/move/rename, recycle/restore, external opening and BT editor saves in those folders.\n- See the real All files and media permission status in Settings → Storage access.\n\nShizuku needs to be started again after restarting your phone. Some MediaTek phones require the official Shizuku 13.5.4 release because 13.6 has a known service-startup fault. Private internal app and system files still require root access.\n\nIncludes the previous selection, default-app, theme and automatic-update improvements. Google Play submission remains deferred until Bennet approves the preview.\n",
   "signerSha256": "d133698bd91a14fb3eb835520ef38b13bfdca6b10cb8538a7501b8711f9c0b9c",
   "minSdk": 30
 }
